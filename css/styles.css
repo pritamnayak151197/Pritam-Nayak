@@ -6,7 +6,7 @@ h1
 {
     width: 100%;
     margin: 0 auto 30px auto;
-    font-size: 100px;
+    font-size: 6rem;
     font-family: 'Sacramento', cursive;
     color: #8b5e83;
 }
@@ -14,13 +14,14 @@ h4
 {
     width: 100%;
     margin: 0 auto 0 auto;
-    font-size: 30px;
+    font-size: 2.3rem;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: #595b83;   
 }
 .mou
 {
     position: relative;
+    size: 9rem;
 }
 .btn
 {
@@ -39,9 +40,9 @@ h4
 .birds
 {
     position: absolute;
-    height: 100px;
-    width: 100px;
-    left: 650px;
+    height: 5rem;
+    width: 5rem;
+    left: 40rem;
     bottom: 350px;
 }
 .brd2
