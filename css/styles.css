@@ -39,7 +39,7 @@ h4
 }
 .birds
 {
-    position: absolute;
+    position: relative;
     height: 5rem;
     width: 5rem;
     left: 40rem;
