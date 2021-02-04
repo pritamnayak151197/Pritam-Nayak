@@ -1,0 +1,116 @@
+body
+{
+    text-align: center;
+}
+h1
+{
+    width: 100%;
+    margin: 0 auto 30px auto;
+    font-size: 100px;
+    font-family: 'Sacramento', cursive;
+    color: #8b5e83;
+}
+h4
+{
+    width: 100%;
+    margin: 0 auto 0 auto;
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #595b83;   
+}
+.btn
+{
+     background-color: #4CAF50;
+     margin-bottom: 10px;
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        border-radius: 2%;
+      
+}
+.birds
+{
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    left: 600px;
+    bottom: 300px;
+}
+.brd2
+{
+    height: 100px;
+    width: 100px;
+    left: 600px;
+    bottom: 300px; 
+}
+p
+{
+    font-family: sans-serif;
+    font-size: 20px;
+}
+.sweb
+{
+    font-family: monospace;
+    font-size: 30px;
+    color: #cd5d7d
+}
+.social
+{
+   position: relative;
+   margin: 10px 10px 10px auto;
+}
+.hlo
+{ 
+    font-family: monospace;
+    font-size: 50px;
+    color: #583d72; 
+}
+.hlo2
+{
+    font-family: monospace;
+    font-size: 50px;
+    color: #583d72;  
+}
+.mypic
+{
+    height: 100px;
+    width: 100px;
+}
+.simg
+{
+    height: 150px;
+    width: 150px;  
+    left: 100px;
+}
+.top-cloud
+{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+.bottom-cloud
+{
+    position: absolute ;
+    left: 100px;
+    bottom: 500px;
+}
+.third-cloud
+{
+    position: absolute ;
+    
+}
+.top-container{
+    background-color: #d0e8f2;
+    position: relative;
+    padding: 100px;
+}
+.middle-container
+{
+    background-color: #d0e8f2;
+    position: relative;
+    padding: 100px;  
+}
