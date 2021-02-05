@@ -1,7 +1,4 @@
-body
-{
-    text-align: center;
-}
+
 h1
 {
     width: auto;
@@ -9,6 +6,7 @@ h1
     font-size: 6rem;
     font-family: 'Sacramento', cursive;
     color: #8b5e83;
+    text-align: center;
 }
 h4
 {
@@ -17,11 +15,12 @@ h4
     font-size: 2.3rem;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: #595b83;   
+    text-align: center;
 }
 .mou
 {
+
     position: relative;
-    size: 9rem;
 }
 .btn
 {
@@ -42,8 +41,8 @@ h4
     position: absolute;
     height: 5rem;
     width: 5rem;
-    left: 40rem;
-    bottom: 350px;
+    left: 42rem;
+    top: 12rem;
 }
 .brd2
 {
@@ -84,6 +83,7 @@ p
 {
     height: 100px;
     width: 100px;
+    text-align: left;
 }
 .simg
 {
@@ -113,10 +113,12 @@ p
     background-color: #d0e8f2;
     position: relative;
     padding: 100px;
+    text-align: center;
 }
 .middle-container
 {
     background-color: #d0e8f2;
     position: relative;
     padding: 100px;  
+    text-align: center;
 }
