@@ -39,7 +39,7 @@ h4
 }
 .birds
 {
-    position: relative;
+    position: absolute;
     height: 5rem;
     width: 5rem;
     left: 40rem;
@@ -109,6 +109,7 @@ p
     
 }
 .top-container{
+    margin: auto;
     background-color: #d0e8f2;
     position: relative;
     padding: 100px;
