@@ -1,16 +1,14 @@
 
 h1
 {
-    width: auto;
-    margin: 0 auto 30px auto;
+    width: 20rem;
     font-size: 6rem;
     font-family: 'Sacramento', cursive;
     color: #8b5e83;
-    text-align: center;
 }
 h4
 {
-    width: 100%;
+    width: 80%;
     margin: 0 auto 0 auto;
     font-size: 2.3rem;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -19,8 +17,8 @@ h4
 }
 .mou
 {
-
-    position: relative;
+    width: 100%;
+    
 }
 .btn
 {
@@ -41,15 +39,7 @@ h4
     position: absolute;
     height: 5rem;
     width: 5rem;
-    left: 42rem;
-    top: 12rem;
-}
-.brd2
-{
-    height: 100px;
-    width: 100px;
-    left: 600px;
-    bottom: 300px; 
+
 }
 p
 {
@@ -93,32 +83,34 @@ p
 }
 .top-cloud
 {
-    position: absolute;
-    right: 300px;
-    top: 50px;
+    position: relative;
+    margin-top:0;
+    margin-left: 70%;
+    float: left;
+    
 }
 .bottom-cloud
 {
-    position: absolute ;
-    left: 100px;
-    bottom: 500px;
+    margin-left: 10rem;
+    margin-top: 0;
+    
+
 }
 .third-cloud
 {
-    position: absolute ;
+    float: right;
+
     
 }
 .top-container{
-    margin: auto;
     background-color: #d0e8f2;
     position: relative;
-    padding: 100px;
-    text-align: center;
+    padding: 50px;
 }
 .middle-container
 {
     background-color: #d0e8f2;
     position: relative;
-    padding: 100px;  
+    padding: 50px;  
     text-align: center;
 }
