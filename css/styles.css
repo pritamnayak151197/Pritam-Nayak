@@ -19,7 +19,7 @@ h4
 }
 .mou
 {
-    width: 100%;
+    width: 80%;
     
 }
 .btn
@@ -41,6 +41,7 @@ h4
     position: absolute;
     height: 5rem;
     width: 5rem;
+    margin-top: 40px;
 
 }
 p
